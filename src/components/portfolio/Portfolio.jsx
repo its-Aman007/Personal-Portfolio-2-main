@@ -14,8 +14,8 @@ import IMG3webp from '../../assets/thriftyx.webp';
 import IMG4 from '../../assets/portfolio.png';
 import IMG4webp from '../../assets/portfolio.webp';
 
-// import IMG5 from '../../assets/';
-// import IMG5webp from '../../assets/';
+import IMG5 from '../../assets/a1Conveyors.png';
+import IMG5webp from '../../assets/a1Conveyors.webp';
 
 import IMG6 from '../../assets/covid-19.png';
 import IMG6webp from '../../assets/covid-19.webp';
@@ -31,23 +31,23 @@ const data = [
     tags: ['html', 'css', 'javascript'],
     desc: 'This is a Covid-19 website which contains all nessasary information about Covid-19 and its prevention. Also conatains a map which shows the number of cases in each country.',
   },
-  // {
-  //   id: 5,
-  //   image: IMG5,
-  //   imageWebp: IMG5webp,
-  //   title: 'GokuFlex',
-  //   github: '',
-  //   demo: '',
-  //   tags: ['React','Node/Express','MongoDb', 'Anime API', 'React Context API'],
-  //   desc: 'This is a anime streaming website with user authentication and watchlist feature. Users can watch anime and add them to their watchlist.',
-  // },
+  {
+    id: 5,
+    image: IMG5,
+    imageWebp: IMG5webp,
+    title: 'a1Conveyors',
+    github: '',
+    demo: 'https://www.a1conveyors.com/',
+    tags: ['React','Node/Express','MongoDb', 'React Context API'],
+    desc: 'A1 CONVEYORS stands as a stalwart in the realm of conveyor belting solutions. Since our inception, we have been pioneering the industry, setting benchmarks for quality, reliability, and innovation. ',
+  },
   {
     id: 4,
     image: IMG4,
     imageWebp: IMG4webp,
     title: 'Portfolio Website',
-    github: '',
-    demo: 'https://app.netlify.com/projects/warm-churros-c254ce/deploys/69c6a4c7e726012a973f0114',
+    github: 'https://github.com/its-Aman007/Personal-Portfolio-2-main',
+    demo: 'https://amansportfolio7.netlify.app/',
     tags: ['React', 'React Icons', 'React Hooks'],
     desc: 'This is my personal portfolio website. It is a single page application with dark mode and light mode support.',
   },
