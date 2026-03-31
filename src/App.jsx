@@ -40,5 +40,4 @@ const App = () => {
     </SwitchContext.Provider>
   );
 }
-
 export default App;
