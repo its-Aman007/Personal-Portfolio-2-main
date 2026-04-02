@@ -5,8 +5,8 @@ import './portfolio.css';
 import IMG1 from '../../assets/room_rental.png';
 import IMG1webp from '../../assets/room_rental.webp';
 
-import IMG2 from '../../assets/Live_ai.png';
-import IMG2webp from '../../assets/Live_ai.webp';
+import IMG2 from '../../assets/wemen.png';
+import IMG2webp from '../../assets/wemen.webp';
 
 import IMG3 from '../../assets/thriftyx.png';
 import IMG3webp from '../../assets/thriftyx.webp';
@@ -65,11 +65,11 @@ const data = [
     id: 2,
     image: IMG2,
     imageWebp: IMG2webp,
-    title: 'Chat with AI',
-    github: 'https://github.com/its-Aman007/try-me',
-    demo: 'https://melodious-croquembouche-c8233d.netlify.app/',
+    title: 'we-men online shopping',
+    github: 'https://github.com/its-Aman007/we-men',
+    demo: 'https://we-men.netlify.app/',
     tags: ['React', 'React+vite', 'PyTorch','mongoDB' ],
-    desc: 'Welcome to LiveCollab AI , here you can also use the chat on the right to ask questions or run /agent web searches',
+    desc: 'We-Men is an online shopping website that uses a deep learning model to recommend products to users based on their preferences and browsing history. The model is trained on a large dataset of user interactions and product information, allowing it to make accurate recommendations and enhance the shopping experience.',
   },
   {
     id: 1,
